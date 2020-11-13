@@ -7,11 +7,7 @@ import ssl
 from lxml import etree
 
 ssl._create_default_https_context = ssl._create_unverified_context
-'''
-    https://www.solvay.com/zh-cn/
-    https://www.tist.com.cn
-    https://www.tist.com.cn/about/index.htm
-'''
+
 
 def add_header():
     return {
