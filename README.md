@@ -3,7 +3,13 @@
   Python 3.7.6<br>
   Lxml 4.5.1<br>
   
-小型爬虫项目介绍：<br>
+  
+小型爬虫项目：这里是Demo03（Demo01的说明就不用理他了）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行时需要同级目录创建keywords.txt。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;每一行放置一个关键字或词。
+
+=============================================================  
+小型爬虫项目：Demo01介绍：<br>
 
 工作原理：<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过首页获取到所有链接地址，将地址循环便利拿到所有对应页面内容。<br>
